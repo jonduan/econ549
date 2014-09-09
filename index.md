@@ -1,5 +1,5 @@
 ---
 layout: home
-title: STAT 547Q
-lead: Modelling with Stochastic Processes
+title: Computational Economics
+lead: ECON 457/ECON 549: Computational Economics
 ---

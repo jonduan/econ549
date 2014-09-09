@@ -8,6 +8,9 @@ layout: default
 
 <div class="container">
   <h1>Announcements</h1>
+
+This is a webpage for ECON 457/ECON 549: Computational Economics
+
   <ul class="posts">
     {% for post in site.posts %}
       	<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
